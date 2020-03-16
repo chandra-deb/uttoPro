@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>UttoPro</title>
+</head>
+<body>
+    <div>
+        <div class="Rectangle-1"></div>
+        <p class="Page-2" id="func">Page-1</p>
+        <div class="Hi-Uttonia">
+            <p>Hi Uttonia</p>
+        </div>
+        <div class="Click-here-To-Contact">
+            <p>Click Here <br> To Contact</p>
+            
+            <a href="#"><img src="img/vector-smart-object.png"
+                srcset="img/vector-smart-object@2x.png 2x,
+                        img/vector-smart-object@3x.png 3x"
+                        id="bimg"
+                        onclick="func()"
+                    class="Vector-Smart-Object">
+            </a>
+            <div class="Rectangle-2"></div>
+        </div>
+
+    </div>
+    <script>
+        function func() {
+            document.getElementById("func").innerHTML="Page-2"
+            document.getElementById("bimg").style.backgroundImage="url('img/rectangle-3.svg')"
+
+
+
+        }
+    </script>
+</body>
+</html>
+
+
