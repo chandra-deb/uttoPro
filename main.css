@@ -1,0 +1,88 @@
+
+.Rectangle-1 {
+  width: auto;
+  height: 204px;
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -10px;
+  background-color: #8f1010;
+}
+
+.Page-2 {
+  width: auto;
+  height: 87px;
+  font-family: GrafolitaScript;
+  font-size: 80px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.04;
+  letter-spacing: 6.4px;
+  text-align: center;
+  color: #ff000c;
+}
+
+
+.Hi-Uttonia {
+  width: 482px;
+  height: 70px;
+  font-family: GrafolitaScript;
+  font-size: 80px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.04;
+  letter-spacing: 6.4px;
+  text-align: left;
+  color: #ff000c;
+}
+
+
+.Click-here-To-Contact {
+  width: auto;
+  height: 0px;
+  font-family: GilbertColor;
+  font-size: 70px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: 6.4px;
+  text-align: center;
+  color: #4800ff;
+}
+
+.Vector-Smart-Object {
+  width: 173px;
+  height: 149px;
+  opacity: 0.8;
+  transition: cubic-bezier(0.47, 0, 0.745, 0.715) .4s;
+  position: relative;
+}
+
+.Vector-Smart-Object:hover {
+  opacity: 1;
+  background-color: #fff200;
+  
+}
+
+
+
+
+.Rectangle-2 {
+  width: auto;
+  height: 200px;
+  margin-top: 150px;
+  margin-left: -10px;
+  margin-right: -10px;
+  background-color: #886767;
+}
+
+
+.Rectangle-3 {
+  width: 260px;
+  height: 186px;
+  object-fit: contain;
+  background-color: #fff200;
+}
+ 
